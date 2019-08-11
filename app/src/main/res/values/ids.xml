@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id">26</item>
+    <item name="txtFlightName" type="id">26</item>
+    <item name="txtFlightYear" type="id">26</item>
+</resources>
